@@ -1,0 +1,49 @@
+{
+  "name": "Sude Naz Aydın",
+  "title": "Bilgisayar Mühendisliği Öğrencisi",
+  "summary": "İnönü Üniversitesi bilgisayar mühendisliği 3. sınıf öğrencisiyim ve yazılım geliştirme alanında kendimi sürekli geliştirmeye odaklanıyorum. C, Java ve Python dilleriyle aktif olarak çalışıyor, özellikle Yapay Zeka alanında kendimi geliştirmeyi hedefliyorum. Huawei Student Developers (HSD) topluluğunda Sosyal Medya yöneticisi olarak görev alarak tasarım, takım çalışması, proje yönetimi, sunum yapma ve teknik iletişim konularında önemli deneyimler kazandım.",
+  "education": {
+    "school": "İnönü Üniversitesi",
+    "degree": "Bilgisayar Mühendisliği / Lisans",
+    "period": "2024 – Devam ediyor"
+  },
+  "experience": [
+    {
+      "role": "Dijital Verimlilik ve Sosyal Medya Araçları Eğitmeni",
+      "org": "EmpowerMe Gençlik Zirvesi, Habitat Derneği",
+      "period": "Devam ediyor",
+      "details": [
+        "Dijital verimlilik ve sosyal medya araçları konusunda aldığım eğitimler doğrultusunda, gençlere yönelik eğitim içerikleri hazırladım ve eğitimler verdim."
+      ]
+    },
+    {
+      "role": "Yazılım Stajı",
+      "org": "Software Persona",
+      "details": [
+        "Veri tabanı ve SQL",
+        "Web Geliştirme; JavaScript",
+        "3D & Görsel Efekt; Blender",
+        "Mobil Uygulama Geliştirme; Android / iOS"
+      ]
+    }
+  ],
+  "skills": ["Microsoft Office", "Yapay Zeka Araçları", "Canva", "Python", "C", "Blender Kullanımı"],
+  "softSkills": ["Proje Yönetimi", "Takım Çalışması", "Analitik Düşünme", "Etkili İletişim", "Problem Çözme", "Liderlik Özelliği"],
+  "languages": [
+    { "name": "İngilizce", "level": "A2" },
+    { "name": "Almanca", "level": "A1" }
+  ],
+  "projects": [
+    {
+      "name": "Habitly",
+      "description": "React Native ile geliştirilmiş, alışkanlık takibi yapan, bildirim ve istatistik özellikli mobil uygulama.",
+      "link": "https://github.com/sudenaz676/Habitly"
+    }
+  ],
+  "contact": {
+    "linkedln":"https://www.linkedin.com/in/sude-naz-ayd%C4%B1n/",
+    "github": "https://github.com/sudenaz676",
+    "email": "aydinsudenaz747@gmail.com",
+    "phone": "+90 505 024 1472"
+  }
+}
